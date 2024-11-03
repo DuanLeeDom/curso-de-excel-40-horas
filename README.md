@@ -6,5 +6,5 @@
 
 ## Status do Curso
 
-- [x] **Fazendo o Curso**
-- [ ] **Curso Concluído**
+- [] **Fazendo o Curso**
+- [x] **Curso Concluído**
